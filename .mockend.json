@@ -1,5 +1,8 @@
 {
   "Post": {
+    "_": {
+      "items": 11
+    },
      "title": {
       "loremWords": {
         "minLength": 2,
