@@ -1,0 +1,22 @@
+{
+  "Post": {
+     "title": {
+      "loremWords": {
+        "minLength": 2,
+        "maxLength": 10
+      }
+    },
+    "id": {
+      "int": {
+        "min": 0,
+        "max": 100
+      }
+    },
+    "isLiked": {
+      "boolean": {}
+    },
+    "cover": {
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    }
+  }
+}
