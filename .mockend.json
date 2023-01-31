@@ -9,13 +9,13 @@
     "id": {
       "int": {
         "min": 0,
-        "max": 100
+        "max": 50
       }
     },
     "isLiked": {
       "boolean": {}
     },
-    "cover": {
+    "url": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     }
   }
